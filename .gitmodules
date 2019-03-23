@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = C:/Users/lulus/source/repos/WebApplication2/submodules/server
